@@ -272,6 +272,7 @@ nav #menu li a:hover {
     height: 13px;
     border-bottom: 2px solid #fff;
     border-right: 2px solid #fff;
+    transform: translate(-50%, 0) rotate(45deg);
     -webkit-transform: translate(-50%, 0) rotate(45deg);
     animation: fade_move-down 3s cubic-bezier(0.19, 1, 0.22, 1) infinite;
 }
